@@ -16,7 +16,7 @@ function Movie({ id, year, title, summary, poster, genres }) {
                   </li>
                ))}
             </ul>
-            <p className="movie_summary">{summary.slice(0, 200)}...</p>
+            <p className="movie__summary">{summary.slice(0, 220)}...</p>
          </div>
       </div>
    );
