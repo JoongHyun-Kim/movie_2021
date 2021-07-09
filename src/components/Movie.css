@@ -78,3 +78,8 @@
    font-size: 12px;
    font-weight: 450;
 }
+
+.movies a {
+   display: contents;
+   text-decoration: none;
+}
