@@ -2,6 +2,8 @@
 
 React JS Fundamentals Course!
 
+
+
 # ✍🏻 개선사항
 
 -  Style
@@ -12,6 +14,8 @@ React JS Fundamentals Course!
    -  movie description box-shadow 수정
    -  movies\_\_movie mouse over animation 추가
    -  navigation bar 수정
+
+
 
 # 🚩 추후 목표
 
