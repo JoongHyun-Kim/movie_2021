@@ -2,9 +2,9 @@
 
 React JS Fundamentals Course!
 
+<br />
 
-
-# ✍🏻 개선사항
+## ✍🏻 개선사항
 
 -  Style
    -  줄 간격 조절 (line-height)
@@ -15,9 +15,9 @@ React JS Fundamentals Course!
    -  movies\_\_movie mouse over animation 추가
    -  navigation bar 수정
 
+<br />
 
-
-# 🚩 추후 목표
+## 🚩 추후 목표
 
 -  Content 추가
 
